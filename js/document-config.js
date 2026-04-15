@@ -1,7 +1,7 @@
 var documentConfig =
 {
   title: "Gebruik activiteiten Restcategorie en Andere insluitsystemen",
-  shortName: "werkafspraken",
+  shortName: "restcat-insluit",
   pubDomain: "imev",
   specStatus: "wv",
   specType: "wa",
