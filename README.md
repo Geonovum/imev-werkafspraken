@@ -8,5 +8,5 @@ Vragen of opmerkingen over deze werkomgeving dan wel de werkafspraak kunnen gest
 
 | Document                                                                                                                       |  
 |--------------------------------------------------------------------------------------------------------------------------------|  
-| [Werkafspraak Gebruik activiteiten Restcategorie en Andere insluitsystemen](https://geonovum.github.io/imev-werkafspraken/)    |
+| [Werkafspraak Gebruik activiteiten Restcategorie en Andere insluitsystemen](https://geonovum.github.io/imev-werkafspraken/WARestInsluit/)    |
 
