@@ -3,13 +3,13 @@ var documentConfig =
   title: "Gebruik activiteiten Restcategorie en Andere insluitsystemen",
   shortName: "restcat-insluit",
   pubDomain: "imev",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "wa",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/imev/werkafspraken/"
   ],
-  publishDate: "2026-04-15",
+  publishDate: "2026-05-19",
   thisVersion: [
     "https://geonovum.github.io/imev-werkafspraken/"
   ],
