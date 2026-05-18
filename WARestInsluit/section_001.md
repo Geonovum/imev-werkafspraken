@@ -14,7 +14,7 @@ Om alle gegevens van het oude RRGS over te kunnen zetten naar het REV is in het 
 <br/>
 <br/>
 <b>Activiteit Andere insluitsystemen</b>
-In <a href='https://wetten.overheid.nl/BWBR0041313/2026-01-31' target='_blank'>bijlage VII -E 12 Andere insluitsystemen</a> van het Bkl luidt de eerste zin <i>“Elke </i><b><i>andere</i></b><i> milieubelastende activiteit die […] met:” </i>gevolgd door een limitatieve lijst met hoeveelheden en typen van gevaarlijke stoffen (categorieën) waarvoor de situatie van toepassing is. De limitatieve lijst is opgenomen in bijlage VII E.12 onder a. t/m g. van het Bkl. 
+In <a href='https://wetten.overheid.nl/BWBR0041313' target='_blank'>bijlage VII -E 12 Andere insluitsystemen</a> van het Bkl luidt de eerste zin <i>“Elke </i><b><i>andere</i></b><i> milieubelastende activiteit die […] met:” </i>gevolgd door een limitatieve lijst met hoeveelheden en typen van gevaarlijke stoffen (categorieën) waarvoor de situatie van toepassing is. De limitatieve lijst is opgenomen in bijlage VII E.12 onder a. t/m g. van het Bkl. 
 De term ‘andere’ wordt, door sommige bronhouders zo geïnterpreteerd dat zij ook andere MBA’s, die een insluitsysteem hebben en maar niet voldoen aan de limitatieve lijst of die niet voorkomen in het Bal, toch aanleveren aan het REV.    
 <br/>
 <br/>
