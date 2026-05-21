@@ -6,11 +6,11 @@ var documentConfig =
   specStatus: "def",
   specType: "wa",
   license: "cc-by-nd",
-  publishVersion: [
+  latestVersion: [
     "https://docs.geostandaarden.nl/imev/waRestInsluit/"
   ],
   publishDate: "2026-05-19",
-  thisVersion: [
+  publishVersion: [
     "https://docs.geostandaarden.nl/imev/def-wa-waRestInsluit-20260519/"
   ],
   // previousPublishDate: [],
