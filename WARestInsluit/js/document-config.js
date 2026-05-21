@@ -15,7 +15,7 @@ var documentConfig =
   // previousMaturity: "CV",
   github: "https://github.com/geonovum/imev-werkafspraken/",
   issueBase: "https://github.com/geonovum/imev-werkafspraken/issues/",
-  edDraftURI: "https://geonovum.github.io/imev-werkafspraken/",
+  edDraftURI: "https://geonovum.github.io/imev-werkafspraken/WARestInsluit/",
   canonicalURI: "https://docs.geostandaarden.nl/imev/waRestInsluit/",
   authors: [
     {
