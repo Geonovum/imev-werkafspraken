@@ -14,7 +14,7 @@ var documentConfig =
     "https://geonovum.github.io/imev-werkafspraken/"
   ],
   previousPublishDate: [],
-  previousMaturity: "GN-WV",
+  previousMaturity: "CV",
   github: "https://github.com/geonovum/imev-werkafspraken/",
   issueBase: "https://github.com/geonovum/imev-werkafspraken/issues/",
   edDraftURI: "https://geonovum.github.io/imev-werkafspraken/",
