@@ -11,7 +11,7 @@ var documentConfig =
   ],
   publishDate: "2026-05-19",
   publishVersion: [],
-  // previousPublishDate: [],
+  // previousPublishDate: "2026-05-19",
   // previousMaturity: "CV",
   github: "https://github.com/geonovum/imev-werkafspraken/",
   issueBase: "https://github.com/geonovum/imev-werkafspraken/issues/",
