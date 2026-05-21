@@ -11,7 +11,7 @@ var documentConfig =
   ],
   publishDate: "2026-05-19",
   thisVersion: [
-    "https://geonovum.github.io/imev-werkafspraken/"
+    "https://docs.geostandaarden.nl/imev/def-wa-waRestInsluit-20260519/"
   ],
   // previousPublishDate: [],
   // previousMaturity: "CV",
