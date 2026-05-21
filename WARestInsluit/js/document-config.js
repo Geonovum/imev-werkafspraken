@@ -6,7 +6,7 @@ var documentConfig =
   specStatus: "def",
   specType: "wa",
   license: "cc-by-nd",
-  latestVersion: [
+  publishVersion: [
     "https://docs.geostandaarden.nl/imev/waRestInsluit/"
   ],
   publishDate: "2026-05-19",
