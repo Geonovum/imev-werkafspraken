@@ -17,6 +17,13 @@ var documentConfig =
   issueBase: "https://github.com/geonovum/imev-werkafspraken/issues/",
   edDraftURI: "https://geonovum.github.io/imev-werkafspraken/WARestInsluit/",
   canonicalURI: "https://docs.geostandaarden.nl/imev/waRestInsluit/",
+  editors: [
+    {
+    name:       "Pieter Bresters",
+	company:    "Geonovum",
+    companyURL: "https://www.geonovum.nl",
+    }
+  ],
   authors: [
     {
       name: "Monique van Scherpenzeel",
