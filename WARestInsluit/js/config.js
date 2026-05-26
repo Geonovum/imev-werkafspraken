@@ -1,13 +1,13 @@
 var documentConfig =
 {
   title: "Gebruik activiteiten Restcategorie en Andere insluitsystemen",
-  shortName: "waRestInsluit",
+  shortName: "warestinsluit",
   pubDomain: "imev",
   specStatus: "def",
   specType: "wa",
   license: "cc-by-nd",
   latestVersion: [
-    "https://docs.geostandaarden.nl/imev/waRestInsluit/"
+    "https://docs.geostandaarden.nl/imev/warestinsluit/"
   ],
   publishDate: "2026-05-19",
   publishVersion: [],
@@ -16,7 +16,7 @@ var documentConfig =
   github: "https://github.com/geonovum/imev-werkafspraken/",
   issueBase: "https://github.com/geonovum/imev-werkafspraken/issues/",
   edDraftURI: "https://geonovum.github.io/imev-werkafspraken/WARestInsluit/",
-  canonicalURI: "https://docs.geostandaarden.nl/imev/waRestInsluit/",
+  canonicalURI: "https://docs.geostandaarden.nl/imev/warestinsluit/",
   editors: [
     {
     name:       "Pieter Bresters",
